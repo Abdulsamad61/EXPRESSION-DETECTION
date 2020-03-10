@@ -21,7 +21,7 @@ FINAL MACHINE LEARNING PROJECT
   <li> Expression detection is a technique used in software that allows a program to "read" the expression on a human face using advanced image processing. Companies have been experimenting with combining sophisticated algorithms with image processing techniques that have emerged in the past ten years to understand more about what an image or a video of a person's face tells us about how he/she is feeling and not just that but also showing the probabilities of mixed emotions a face could has. <li/>
 <h2> DATASET SOURCES </H2> 
 <UL>
-  <LI> aggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data </LI>
+  <LI> Kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data </LI>
 <h2> REFRENCES </H2> 
 <UL> 
   <LI> https://www.youtube.com/watch?v=DtBu1u5aBsc&t=141s </LI>
