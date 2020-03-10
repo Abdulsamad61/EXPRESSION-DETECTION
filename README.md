@@ -16,5 +16,7 @@ FINAL MACHINE LEARNING PROJECT
   <LI> numpy </LI>
   <LI> imutils </LI>
   <LI> scikit_learn </LI>
-    
-
+<h2> What does Expression detection mean? </H2>
+<UL>
+  <li> Expression detection is a technique used in software that allows a program to "read" the expression on a human face using advanced image processing. Companies have been experimenting with combining sophisticated algorithms with image processing techniques that have emerged in the past ten years to understand more about what an image or a video of a person's face tells us about how he/she is feeling and not just that but also showing the probabilities of mixed emotions a face could has. <li/>
+  
